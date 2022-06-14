@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Elise!
 
-- 👀  I’m interested in helping on projects as a full-stack dev, using JS, React, Next, Node, MongoDB, Firebase...
-- 🌱  I’m currently learning Python and I'm eager to learn any language / framework
+- 👀  I’m interested in helping on projects as a full-stack dev, using JS, TypeScript, React, Next, Node, MongoDB, Firebase...
+- 🌱  I’m currently learning Solidity and I'm eager to learn any language / framework
 - 💞️  I’m looking to collaborate on opensource projects which are helping people 🤝 and / or protecting environment 🌍
 
 - 📫  How to reach me
